@@ -1,0 +1,22 @@
+[
+  {
+    "name": "github",
+    "url": "https://github.com/gdurbin",
+    "icon": "github-fill"
+  },
+  {
+    "name": "twitter",
+    "url": "https://twitter.com/gdurbin",
+    "icon": "twitter-x-fill"
+  },
+  {
+    "name": "instagram",
+    "url": "https://instagram.com/gerrettdurbin",
+    "icon": "instagram-fill"
+  },
+  {
+    "name": "youtube",
+    "url": "https://youtube.com/@GDurbin",
+    "icon": "youtube-fill"
+  }
+]
