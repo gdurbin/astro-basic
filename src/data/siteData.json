@@ -1,8 +1,23 @@
 {
   "siteName": "Astro-Basic",
+  "default": {
+    "pageTitle": "DefaultTitle",
+    "metaTitle": "DefaultMetaTitle",
+    "metaDescription": "DefaultMetaDescription"
+  },
   "index": {
     "pageTitle": "Home",
     "metaTitle": "Home Page",
+    "metaDescription": "Astro-Basic Template"
+  },
+  "about": {
+    "pageTitle": "About",
+    "metaTitle": "About Page",
+    "metaDescription": "Astro-Basic Template"
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "metaTitle": "Contact Page",
     "metaDescription": "Astro-Basic Template"
   }
 }

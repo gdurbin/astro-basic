@@ -1,21 +1,13 @@
 ---
-// Components
-
 // Layout
 import BaseLayout from "@layouts/BaseLayout.astro";
 
-// Assets
-
-// Props
-const {
-  pageTitle = "About",
-  metaTitle = "About Page",
-  metaDescription = "Description of web page.",
-} = Astro.props;
+// Data
+import { siteName, about } from "@data/siteData.json";
 ---
 
 <BaseLayout
-  pageTitle={"Website | " + pageTitle}
-  metaTitle={metaTitle}
-  metaDescription={metaDescription}
+  pageTitle={siteName + " | " + about.pageTitle}
+  metaTitle={about.metaTitle}
+  metaDescription={about.metaDescription}
 />
