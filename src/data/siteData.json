@@ -38,27 +38,27 @@
     {
       "name": "github",
       "url": "https://github.com/#",
-      "icon": "github-fill"
+      "icon": "github-line"
     },
     {
       "name": "discord",
       "url": "https://discord.gg/#",
-      "icon": "discord-fill"
+      "icon": "discord-line"
     },
     {
       "name": "twitter",
       "url": "https://twitter.com/#",
-      "icon": "twitter-x-fill"
+      "icon": "twitter-x-line"
     },
     {
       "name": "instagram",
       "url": "https://instagram.com/#",
-      "icon": "instagram-fill"
+      "icon": "instagram-line"
     },
     {
       "name": "youtube",
       "url": "https://youtube.com/#",
-      "icon": "youtube-fill"
+      "icon": "youtube-line"
     }
   ]
 }
